@@ -11,6 +11,7 @@ nav a { color: var(--muted); font-weight: 700; text-decoration: none; }
 nav a[aria-current='page'] { color: var(--accent); }
 h1 { font-size: 34px; line-height: 1.15; margin: 24px 0 8px; }
 h2 { font-size: 21px; margin: 0 0 6px; }
+h3 { font-size: 17px; margin: 14px 0 2px; }
 section { margin: 16px 0; padding: 18px 20px; border-radius: 18px; background: var(--card); border: 1px solid var(--edge); }
 .hero { text-align: center; }
 .hero img { border-radius: 28px; box-shadow: 0 12px 30px -12px #0006; }
